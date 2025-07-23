@@ -1,0 +1,22 @@
+body{
+    background-color: #fceed1;
+    padding-top: 60px; 
+}
+header{
+    position: fixed; 
+    text-align: center;
+    background-color: #00DDFF;
+    padding: 14px;
+    font-size: 20px;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 22px;
+    color: white;
+    transition-duration: 0.5s;
+}
